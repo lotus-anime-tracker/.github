@@ -1,5 +1,5 @@
-# Lotus Anime Tracker
+# Haiku
 
-The official GitHub profile for Lotus. An upcoming anime tracking application without the fuss.
+The official GitHub organization for Haiku. An application thats designed to keep track of any anime series without getting in your way
 
 Work in progress...
